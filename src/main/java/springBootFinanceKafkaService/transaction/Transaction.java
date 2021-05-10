@@ -1,4 +1,4 @@
-package springBootWithKafka.transaction;
+package springBootFinanceKafkaService.transaction;
 
 import javax.persistence.*;
 import java.util.Random;

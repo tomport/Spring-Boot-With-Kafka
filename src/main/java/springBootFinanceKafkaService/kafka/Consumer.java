@@ -1,7 +1,7 @@
-package springBootWithKafka.kafka;
+package springBootFinanceKafkaService.kafka;
 
-import springBootWithKafka.transaction.Transaction;
-import springBootWithKafka.transaction.TransactionService;
+import springBootFinanceKafkaService.transaction.Transaction;
+import springBootFinanceKafkaService.transaction.TransactionService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

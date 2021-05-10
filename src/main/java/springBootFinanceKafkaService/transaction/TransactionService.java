@@ -1,4 +1,4 @@
-package springBootWithKafka.transaction;
+package springBootFinanceKafkaService.transaction;
 
 
 import org.springframework.http.HttpStatus;
